@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "136074079729",
+    "firebase_url": "https://fyp2022-2046f-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fyp2022-2046f",
+    "storage_bucket": "fyp2022-2046f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136074079729:android:69cdebaf81008b52b0e850",
+        "android_client_info": {
+          "package_name": "com.example.lobster_meter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136074079729-dnaj5b183t4bnhi4ltc4vl9l89lq5bva.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKzDi27oPwgb2fBfFu-JUJr9A3mmAjUIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136074079729-dnaj5b183t4bnhi4ltc4vl9l89lq5bva.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
